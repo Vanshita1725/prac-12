@@ -7,3 +7,5 @@ export default defineConfig({
   plugins: [tailwindcss(), react()],
 })
 
+
+// tailwind.config.js
